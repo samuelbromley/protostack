@@ -40,7 +40,7 @@ Full Layout is:
 
     ----data/
 	  	example.db
-		dbadmin.php (database editor for SQLite databases)
+		dbad.php (database editor for SQLite databases)
 	----engine/
  		home.php (the other files below are just examples)
    		example.php
